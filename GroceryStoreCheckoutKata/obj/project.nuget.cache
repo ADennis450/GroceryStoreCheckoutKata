@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "HLhjstAgKK3jGRGpdpnBM+DA9qsEuIW458ACQaL3MtEaKDFRB6i8+uBi2vpVWvviMZFEKTfh8sS0f6ucf5bM6g==",
+  "success": true,
+  "projectFilePath": "C:\\Repos\\GroceryStoreCheckoutKata\\GroceryStoreCheckoutKata\\GroceryStoreCheckoutKata.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ADenn\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

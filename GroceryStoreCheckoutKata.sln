@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31229.75
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GroceryStoreCheckoutKata", "GroceryStoreCheckoutKata\GroceryStoreCheckoutKata.csproj", "{15570F00-AEDA-426C-90F1-91F32F5E1D9D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestGroceryStoreCheckoutKata", "TestGroceryStoreCheckoutKata\TestGroceryStoreCheckoutKata.csproj", "{9ADC483F-A042-4060-8DCE-6866A3767AE8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{15570F00-AEDA-426C-90F1-91F32F5E1D9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15570F00-AEDA-426C-90F1-91F32F5E1D9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15570F00-AEDA-426C-90F1-91F32F5E1D9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15570F00-AEDA-426C-90F1-91F32F5E1D9D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9ADC483F-A042-4060-8DCE-6866A3767AE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9ADC483F-A042-4060-8DCE-6866A3767AE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9ADC483F-A042-4060-8DCE-6866A3767AE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9ADC483F-A042-4060-8DCE-6866A3767AE8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {86BC61CE-7C13-4865-9DE1-DEEA44F6E69F}
+	EndGlobalSection
+EndGlobal
