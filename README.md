@@ -12,7 +12,7 @@ Simple grocery store API. You can add items, remove items and apply deals
 <li>MSTest.TestFramework --version 2.1.1</li>
 
 ## How to Use
-To start the API navigate to the project directory (../CheckoutOrderKata/GroceryStoreCheckoutKata) and execute the commands `dotnet build` and `dotnet run`. Use the localhost url returned to the terminal as the base url for the API.
+To start the API navigate to the project directory (../CheckoutOrderKata/GroceryStoreCheckoutKata) and execute the commands `dotnet build` and `dotnet run`. Copy the localhost url returned to the terminal as the base url for the API. In a browser navigate to {baseurl}/api/checkout
 
 ## API Documention
 Documentation for the API can be found here [Postman Documentation](https://documenter.getpostman.com/view/4352737/Tz5p6dS4)
